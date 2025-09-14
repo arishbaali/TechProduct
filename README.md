@@ -25,4 +25,4 @@ It adapts seamlessly to desktop, tablet, and mobile devices, ensuring a consiste
 - HTML5 – Page structure  
 - CSS3 – Styling with Flexbox & Grid  
 - JavaScript (ES6) – Interactivity and theme toggle  
-- Font Awesome** – Icons for features and UI elements  
+- Font Awesome – Icons for features and UI elements  
